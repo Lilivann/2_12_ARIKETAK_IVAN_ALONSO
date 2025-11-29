@@ -1,2 +1,4 @@
 Fitxategi 1, lehen lerroa
 Master adarreko lerro berria
+Bigarren lerroa
+Hirugarren lerroa
